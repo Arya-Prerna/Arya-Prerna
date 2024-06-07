@@ -1,5 +1,5 @@
 ## Hi 👋 I’m Prerna Arya from India!
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 Email - aryaprerna23@gmail.com
