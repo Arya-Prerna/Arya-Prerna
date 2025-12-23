@@ -7,7 +7,7 @@ I specialize in building **automated data pipelines**, **cleaning "dirty" real-w
 
 ---
 
-### 🛠️ Tech Stack
+### ✦ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,8 +17,8 @@ I specialize in building **automated data pipelines**, **cleaning "dirty" real-w
 
 ---
 
-### 🚀 Key Projects
-**1. Automated Data Quality Pipeline** 🛠️  
+### ✦ Key Project
+**1. Automated Data Quality Pipeline**  
 *Ensuring data integrity for industrial datasets.*  
 [View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • *Python, Great Expectations, Pandas*
 <!--
