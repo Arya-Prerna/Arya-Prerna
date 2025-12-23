@@ -1,9 +1,9 @@
-## Hi 👋 I’m Prerna Arya from India!
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 Email - aryaprerna23@gmail.com
-- ⚡ Fun fact: My comfort anime is Haikyuu! What's yours?
+# Hi, I'm Prerna Arya! 👋
+### Data Scientist | Business Intelligence Analyst | Python & SQL Developer
+
+I bridge the gap between complex data and business strategy. Currently pursuing my **M.Sc. in Data Science** at Universität Trier, with professional experience in **Production Support Engineering** and **Product Analytics**. 
+
+I specialize in building **automated data pipelines**, **cleaning "dirty" real-world datasets**, and creating **dashboards** that drive decision-making.
 
 <!---
 Arya-Prerna/Arya-Prerna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
