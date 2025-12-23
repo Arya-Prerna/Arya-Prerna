@@ -15,13 +15,13 @@ I specialize in building **automated data pipelines**, **cleaning "dirty" real-w
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-<!---
+---
 
 ### 🚀 Key Projects
 **1. Automated Data Quality Pipeline** 🛠️  
 *Ensuring data integrity for industrial datasets.*  
 [View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • *Python, Great Expectations, Pandas*
-
+<!--
 **2. Predictive Maintenance for IoT** ⚙️  
 *Predicting machine failure using sensor data to reduce downtime.*  
 [View Repo](https://github.com/Arya-Prerna/industrial-iot-predictive-maintenance) • *Machine Learning, Scikit-Learn*
