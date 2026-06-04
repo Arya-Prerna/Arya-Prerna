@@ -22,13 +22,13 @@ I specialize in building **automated data pipelines**, **cleaning "dirty" real-w
 ---
 
 ### ✦ Key Project
-**1. LUX-Compliance RAG System**
-    *Automated analysis of Luxembourgish regulatory documents using LLMs and LangChain.*
-    [View Repo](https://github.com/Arya-Prerna/LUX-compliance-RAG) • **Python, LangChain, OpenAI/Llama, ChromaDB**
+**1. LUX-Compliance RAG System** <br>
+     *Automated analysis of Luxembourgish regulatory documents using LLMs and LangChain.* <br>
+     [View Repo](https://github.com/Arya-Prerna/LUX-compliance-RAG) • **Python, LangChain, OpenAI/Llama, ChromaDB**
 
-**2. Automated Data Quality Pipeline**
-    *Ensuring data integrity for industrial datasets using production-grade validation.*
-    [View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • **Python, Great Expectations, Pandas**
+**2. Automated Data Quality Pipeline** <br>
+     *Ensuring data integrity for industrial datasets using production-grade validation.* <br>
+      [View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • **Python, Great Expectations, Pandas**
 <!--
 **2. Predictive Maintenance for IoT** ⚙️  
 *Predicting machine failure using sensor data to reduce downtime.*  
