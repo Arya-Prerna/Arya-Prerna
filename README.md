@@ -1,5 +1,5 @@
 # Hi, I'm Prerna Arya! 👋
-### Data Scientist | Business Intelligence Analyst | Python & SQL Developer
+### NLP Engineer | Data Scientist | LLM & RAG Developer
 
 I bridge the gap between complex data and business strategy. Currently pursuing my **M.Sc. in Natural Language Processing** at Universität Trier, with a background in Data Science and Software Engineering. 
 
@@ -14,18 +14,21 @@ I specialize in building **automated data pipelines**, **cleaning "dirty" real-w
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### ✦ Key Project
-**1.LUX-Compliance RAG System**
+**1. LUX-Compliance RAG System**
 *Automated analysis of Luxembourgish regulatory documents using LLMs and LangChain.*
-[View Repo](https://github.com/Arya-Prerna/LUX-compliance-RAG) • *Python, LangChain, OpenAI/Llama, ChromaDB*
+[View Repo](https://github.com/Arya-Prerna/LUX-compliance-RAG) • **Python, LangChain, OpenAI/Llama, ChromaDB**
 
-
-**2. Automated Data Quality Pipeline**  
-*Ensuring data integrity for industrial datasets.*  
-[View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • *Python, Great Expectations, Pandas*
+**2. Automated Data Quality Pipeline**
+*Ensuring data integrity for industrial datasets using production-grade validation.*
+[View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • **Python, Great Expectations, Pandas**
 <!--
 **2. Predictive Maintenance for IoT** ⚙️  
 *Predicting machine failure using sensor data to reduce downtime.*  
