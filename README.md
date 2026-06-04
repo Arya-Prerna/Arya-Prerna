@@ -1,7 +1,7 @@
 # Hi, I'm Prerna Arya! 👋
 ### Data Scientist | Business Intelligence Analyst | Python & SQL Developer
 
-I bridge the gap between complex data and business strategy. Currently pursuing my **M.Sc. in Data Science** at Universität Trier, with professional experience in **Production Support Engineering** and **Product Analytics**. 
+I bridge the gap between complex data and business strategy. Currently pursuing my **M.Sc. in Natural Language Processing** at Universität Trier, with a background in Data Science and Software Engineering. 
 
 I specialize in building **automated data pipelines**, **cleaning "dirty" real-world datasets**, and creating **dashboards** that drive decision-making.
 
@@ -18,7 +18,12 @@ I specialize in building **automated data pipelines**, **cleaning "dirty" real-w
 ---
 
 ### ✦ Key Project
-**1. Automated Data Quality Pipeline**  
+**1.LUX-Compliance RAG System**
+*Automated analysis of Luxembourgish regulatory documents using LLMs and LangChain.*
+[View Repo](https://github.com/Arya-Prerna/LUX-compliance-RAG) • *Python, LangChain, OpenAI/Llama, ChromaDB*
+
+
+**2. Automated Data Quality Pipeline**  
 *Ensuring data integrity for industrial datasets.*  
 [View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • *Python, Great Expectations, Pandas*
 <!--
