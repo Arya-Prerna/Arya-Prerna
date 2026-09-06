@@ -22,11 +22,15 @@ I specialize in building **automated data pipelines**, **cleaning "dirty" real-w
 ---
 
 ### ✦ Key Project
-**1. LUX-Compliance RAG System** <br>
+**1. FCC Project PMO Kit** <br>
+     *A data-driven framework simulating the implementation of the **EU AML Package** at a Luxembourgish financial institution.* <br>
+     [View Repo](https://github.com/Arya-Prerna/Compliance-Data--PMO) • **Python (Pandas/Pathlib), automated reporting scripts, and structured data validation**
+     
+**2. LUX-Compliance RAG System** <br>
      *Automated analysis of Luxembourgish regulatory documents using LLMs and LangChain.* <br>
      [View Repo](https://github.com/Arya-Prerna/LUX-compliance-RAG) • **Python, LangChain, OpenAI/Llama, ChromaDB**
 
-**2. Automated Data Quality Pipeline** <br>
+**3. Automated Data Quality Pipeline** <br>
      *Ensuring data integrity for industrial datasets using production-grade validation.* <br>
       [View Repo](https://github.com/Arya-Prerna/automated-data-quality-pipeline) • **Python, Great Expectations, Pandas**
 <!--
