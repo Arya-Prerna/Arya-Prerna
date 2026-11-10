@@ -3,8 +3,6 @@ I am a Master’s student in **Natural Language Processing at the University of 
 
 I focus on practical data automation, Retrieval-Augmented Generation (RAG) pipelines, and building tools that turn unstructured documents and tabular data into usable insights.
 
-**M.Sc. Natural Language Processing** — University of Trier (Expected 2027)
-**Location:** Trier, Germany
 **Current Focus:** RAG pipelines, API integration, and automated document extraction
 
 ---
