@@ -3,13 +3,13 @@ I am a Master’s student in **Natural Language Processing at the University of 
 
 I focus on practical data automation, Retrieval-Augmented Generation (RAG) pipelines, and building tools that turn unstructured documents and tabular data into usable insights.
 
-- 🎓 **M.Sc. Natural Language Processing** — University of Trier (Expected 2027)
-- 📍 **Location:** Trier, Germany
-- 🛠️ **Current Focus:** RAG pipelines, API integration, and automated document extraction
+**M.Sc. Natural Language Processing** — University of Trier (Expected 2027)
+**Location:** Trier, Germany
+**Current Focus:** RAG pipelines, API integration, and automated document extraction
 
 ---
 
-### ✦ Featured Projects
+### Projects
 
 **1. [LUX-Compliance RAG System](https://github.com/Arya-Prerna/LUX-compliance-RAG)**  
 A Retrieval-Augmented Generation (RAG) pipeline to query Luxembourg regulatory documents (CSSF circulars) with page-level source citations to support compliance checks.  
@@ -25,7 +25,7 @@ A framework with automated data validation scripts and structured reporting temp
 
 ---
 
-### ✦ Tools & Technologies
+### Tools & Technologies
 
 * **Languages & Core:** Python, SQL, C# (Basics)
 * **AI & NLP:** LangChain, LlamaIndex, ChromaDB, Hugging Face, Prompt Engineering
@@ -34,6 +34,6 @@ A framework with automated data validation scripts and structured reporting temp
 
 ---
 
-### 📫 Contact
+### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaprerna23/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryaprerna23@gmail.com)
